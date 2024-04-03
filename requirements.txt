@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+pyaudio
+wikipedia
+Flask
+gTTS
+pygame
+playsound
